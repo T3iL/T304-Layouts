@@ -1,12 +1,15 @@
-# 04 (2020.09.28) - Layouts
+# 04 - Layouts
+
 ## -------INFO
-```
+
 1. CSS - Box model
-2. CSS - positions
-3. CSS - Flex
-4. CSS - Grid
-5. CSS - Transform
-```
+2. CSS - Floats
+3. CSS - positions
+4. CSS - Flex
+5. CSS - Grid
+6. CSS - Transform
+
+
 
 https://miroslawzelent.pl/kurs-css/
 
