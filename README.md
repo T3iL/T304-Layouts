@@ -15,7 +15,7 @@ https://miroslawzelent.pl/kurs-css/
 
 https://htmlcheatsheet.com/css/
 
-https://youtu.be/R7gqJkdc5dM
+[Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 
 ### --------Links
 https://github.com/T3iL/T304-Layouts
