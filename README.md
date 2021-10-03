@@ -3,17 +3,20 @@
 ## -------INFO
 
 1. CSS - Box model
-2. CSS - Floats
-3. CSS - positions
-4. CSS - Flex
-5. CSS - Grid
-6. CSS - Transform
+2. CSS - Block, Inline, Inline-block
+3. CSS - Floats
+4. CSS - positions
+5. CSS - Flex
+6. CSS - Grid
+7. CSS - Transform
 
 
 
 https://miroslawzelent.pl/kurs-css/
 
 https://htmlcheatsheet.com/css/
+
+[Block, Inline, and Inline-Block explained | CSS Tutorial](https://youtu.be/x_i2gga-sYg)
 
 [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 
