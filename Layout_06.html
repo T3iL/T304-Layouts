@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>T30301 FLEX</title>
+	<style>
+		*{
+			margin:0;
+			padding:0;
+			box-sizing:border-box;
+		}
+
+		div{border: 1px solid red;padding:1em;}
+		.container{width:500px;margin:auto;}
+		#central{display:flex;width:100%;}
+		#central * {width:100%}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div id="header">HEADER</div>
+		<div id="central">
+			<div id="s1">S1</div>
+			<div id="content">CONTENT</div>
+			<div>
+				<div id="s2">S2</div>
+				<div id="s3">S3</div>
+			</div>
+		</div>
+		<div id="footer">FOOTER</div>
+	</div>
+</body>
+</html>
