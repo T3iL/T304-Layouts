@@ -20,6 +20,8 @@ https://htmlcheatsheet.com/css/
 
 [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 
+[CSS-Tricks Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ### --------Links
 https://github.com/T3iL/T304-Layouts
 
