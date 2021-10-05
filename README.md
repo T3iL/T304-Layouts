@@ -30,7 +30,7 @@ T30501. Przygotuj layout przedstawiony na obrazie Layout_07 w dwóch wersjach:
 - przy pomocy float
 - przy pomocy flex
 ```
-![Layout_07](/Layout_07.JPG)
+![Layout_07](/Layout_07.jpg)
 
 ### --------Links
 https://github.com/T3iL/T304-Layouts
