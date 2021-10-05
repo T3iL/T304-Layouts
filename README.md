@@ -27,8 +27,8 @@ ZADANIA
 
 T30501. Przygotuj layout przedstawiony na obrazie Layout_07 w dwóch wersjach: 
 
-- przy pomocy float
-- przy pomocy flex
+- tylko przy pomocy float
+- tylko przy pomocy flex
 ```
 ![Layout_07](/Layout_07.jpg)
 
