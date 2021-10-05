@@ -22,6 +22,16 @@ https://htmlcheatsheet.com/css/
 
 [CSS-Tricks Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+```
+ZADANIA
+
+T30501. Przygotuj layout przedstawiony na obrazie Layout_07 w dwóch wersjach: 
+
+- przy pomocy float
+- przy pomocy flex
+```
+![Layout_07](/Layout_07.JPG)
+
 ### --------Links
 https://github.com/T3iL/T304-Layouts
 
