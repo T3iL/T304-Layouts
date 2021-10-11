@@ -44,7 +44,33 @@
 ...
 ```
 7. CSS - Grid
-8. CSS - Transform
+```html
+    <style>
+        #container{
+            display:grid;
+            grid-template-columns: 1fr 3fr 1fr;
+            grid-template-rows: 1fr 5fr;
+        }
+        #container > div{
+            border:1px solid;
+        }
+        #d1{
+            grid-column-start: 1;
+            grid-column-end: 4;
+            grid-row-start: 2;
+        }
+    </style>
+    <div id="container">
+        <div id="d1">1</div>
+        <div id="d2">2</div>
+        <div id="d3">3</div>
+        <div id="d4">4</div>
+        <div id="d5">5</div>
+        <div id="d6">6</div>
+        <div id="d6">7</div>
+    </div>
+```
+9. CSS - Transform
 
 
 
