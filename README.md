@@ -5,8 +5,7 @@
 1. CSS - Box model
 2. CSS - Block, Inline, Inline-block
 3. CSS - Floats
-4. CSS - positions
-5. CSS - Flex
+4. CSS - Flex
 ```html
 ...
     <style>
@@ -43,7 +42,7 @@
     </div>
 ...
 ```
-7. CSS - Grid
+5. CSS - Grid
 ```html
 ...
     <style>
@@ -72,7 +71,8 @@
         <div id="d6">7</div>
     </div>
 ```
-9. CSS - Transform
+6. CSS - positions
+7. CSS - Transform
 
 
 
