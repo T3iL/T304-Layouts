@@ -8,6 +8,30 @@
 4. CSS - positions
 5. CSS - Flex
 ```html
+...
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+        html,body,#container{
+            height:100%;
+        }
+        #container{
+            display:flex;
+            flex-direction: row-reverse;
+            flex-wrap:wrap;
+            justify-content: center;
+            align-items: center;
+        }
+        #container > div{
+            border:1px solid;
+            width:100px;
+            height:100px;
+        }
+    </style>
+...
     <div id="container">
         <div>1</div>
         <div>2</div>
@@ -15,6 +39,7 @@
         <div>4</div>
         <div>5</div>
     </div>
+...
 ```
 7. CSS - Grid
 8. CSS - Transform
