@@ -123,8 +123,8 @@ https://htmlcheatsheet.com/css/
 
 [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 
-[CSS-Tricks Float](https://css-tricks.com/almanac/properties/f/float/) -|- 
-[CSS-Tricks Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) -|- 
+[CSS-Tricks Float](https://css-tricks.com/almanac/properties/f/float/) |
+[CSS-Tricks Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |
 [CSS-Tricks Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ```
