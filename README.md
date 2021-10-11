@@ -45,6 +45,7 @@
 ```
 7. CSS - Grid
 ```html
+...
     <style>
         #container{
             display:grid;
@@ -60,6 +61,7 @@
             grid-row-start: 2;
         }
     </style>
+...
     <div id="container">
         <div id="d1">1</div>
         <div id="d2">2</div>
