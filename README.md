@@ -44,6 +44,16 @@
         <div class="clear">FOOTER</div>
     </div>
 ```
+
+clearfix pseudo element:
+```css
+clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+```
+
 6. CSS - Flex
 ```html
 ...
