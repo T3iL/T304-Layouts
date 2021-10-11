@@ -20,10 +20,12 @@
         }
         #container{
             display:flex;
-            flex-direction: row-reverse;
+            flex-direction: row-reverse;/* row | column */
             flex-wrap:wrap;
-            justify-content: center;
-            align-items: center;
+            justify-content: center; /* flex-start | flex-end | space-between | space-around | space-evenly */
+            align-items: center; /* stretch | flex-start | flex-end */
+            align-content: center; /* flex-start | flex-end | | space-between | space-around | space-evenly | stretch */
+            gap:10px;
         }
         #container > div{
             border:1px solid;
