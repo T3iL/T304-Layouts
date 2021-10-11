@@ -2,8 +2,8 @@
 
 ## -------INFO
 
-1. CSS - Box model
-2. CSS - Block, Inline, Inline-block
+1. CSS - Block, Inline, Inline-block
+2. CSS - Box model
 3. CSS - Floats
 4. CSS - Flex
 ```html
