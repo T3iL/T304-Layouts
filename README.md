@@ -5,7 +5,46 @@
 1. CSS - Block, Inline, Inline-block
 2. CSS - Box model
 3. CSS - Floats
-4. CSS - Flex
+```html
+...
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+        html,body,#container{
+            height:100%;
+        }
+        #container{
+            width:400px;
+            margin:auto;
+        }
+        #container > div {
+            border:1px solid;
+        }
+        #left{
+            height:80%;
+            width:30%;
+            float:left;
+        }
+        #right{
+            height:80%;
+            width:70%;
+            float:right;
+        }
+        .clear{
+            clear:both;
+        }
+    </style>
+...
+    <div id="container">
+        <div id="left">LEFT</div>
+        <div id="right">RIGHT</div>
+        <div class="clear">FOOTER</div>
+    </div>
+```
+6. CSS - Flex
 ```html
 ...
     <style>
