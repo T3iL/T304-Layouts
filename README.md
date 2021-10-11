@@ -47,7 +47,7 @@
 
 clearfix pseudo element:
 ```css
-clearfix:after {
+.clearfix:after {
   content: "";
   display: table;
   clear: both;
