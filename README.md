@@ -148,7 +148,7 @@ T30501. Przygotuj layout przedstawiony na obrazie Layout_07 w dwóch wersjach:
 ![Layout_07](/Layout_02.PNG)
 ![Layout_07](/Layout_07.jpg)
 
-ZADT30402 - Przygotuj w programie graficznym schemat layoutu 10 wybranych stron z katalogu Layout (link poniżej).
+ZADT30402 - Przygotuj w programie graficznym schemat layoutu dziesięciu wybranych stron z katalogu Layout (link poniżej).
 
 https://drive.google.com/drive/folders/13lyoR2wH2LrDdUcLWojNBxd6DyDRQ_e_?usp=sharing
 
