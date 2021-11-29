@@ -163,7 +163,7 @@ https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
 https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
 ### --------On line editors
-https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ |
+https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ | nicepage.com
 ### ---------Assets
 https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ | https://www.flaticon.com/
 ### ---------Stock Img
